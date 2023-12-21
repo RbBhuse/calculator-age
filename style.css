@@ -1,0 +1,53 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@100;400;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Itim', cursive;
+    
+}
+.main{
+    height: 320px;
+    width: 800px;
+    border: 2px solid blue;
+    margin: auto;
+    margin-top:200px;
+    background-color:#0E2F2F;
+    box-shadow: 10px 10px #99ffbb;
+
+}
+
+button{
+    background-color: rgb(247, 173, 82);
+   padding: 10px;
+}
+.button{
+    margin-left: 270px;
+    margin-top: 30px;
+}
+.radius{
+    border-radius: 10px;
+}
+h2{
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    margin-left: 300px;
+    color: yellow;
+}
+form{
+    margin-left:270px;
+    margin-top: 30px;
+    
+}
+.para{
+    margin-left:270px;
+    margin-top: 30px;
+    
+}
+.icon{
+    margin-left:350px;
+    margin-top: 50px;
+    
+}
